@@ -18,7 +18,7 @@ var rootPath = path.resolve(__dirname, '..')
 // config.sh 文件所在目录
 var confFile = path.join(rootPath, 'config/config.sh');
 // config.sh.sample 文件所在目录
-var sampleFile = path.join(rootPath, 'sample/config.sh.sample');
+var sampleFile = path.join(rootPath, 'sample/config.sample.sh');
 // crontab.list 文件所在目录
 var crontabFile = path.join(rootPath, 'config/crontab.list');
 // config.sh 文件备份目录
